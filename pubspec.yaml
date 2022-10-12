@@ -62,7 +62,7 @@ flutter:
   fonts:
     - family: PatuaOne
       fonts:
-        - asset: assets/fonts/PartuaOne-Regular.ttf
+        - asset: assets/fonts/PatuaOne-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
